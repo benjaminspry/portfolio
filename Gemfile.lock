@@ -326,6 +326,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-remote-theme
   jekyll-seo-tag
   jekyll-sitemap
 
