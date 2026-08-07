@@ -2,5 +2,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jekyll-remote-theme
+  - jektex
 
-theme: no-style-please
+remote_theme: riggraz/no-style-please
