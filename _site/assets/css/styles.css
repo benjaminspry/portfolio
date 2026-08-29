@@ -96,3 +96,11 @@ img {
   max-width: 100%;
   display: block;
   margin: 0 auto; }
+
+.highlight {
+  /* padding: 1rem;
+  border-radius: 0.5rem;
+  background-color: #3e3d3d;
+  color: #00ff0f;
+  */
+  font-style: italic; }
